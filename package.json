@@ -1,0 +1,9 @@
+{
+  "name": "ics-proxy",
+  "version": "1.0.0",
+  "description": "ICS proxy that adds room/location to event titles",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
